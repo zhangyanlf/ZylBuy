@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb5ca45d-bb56-437d-9d89-41cb6510129a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/avatar_enterprise_vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/avatar_grassroot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/avatar_vgirl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/avatar_vip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/bg_merchant_photo_placeholder_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/bg_merchant_photo_placeholder_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/bg_open_point_trip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/bg_open_point_trip_568h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/cnxh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/collect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/draft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/dy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/gw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/gwzx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hcpjp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/home_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hot_air.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hot_car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hot_eat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hot_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hot_wash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/hot_water.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_arrow_selected_yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_camera_back_highlighted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_camera_back_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_camera_finish_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_camera_finish_highlighted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_camera_finish_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_cell_rightarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_cinema_presale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_campaign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_exclusive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_guarantee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_mainpush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_mark_collected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_nearest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_nobooking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_defaultimage_shoppingmall_merchant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_category_page_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_category_page_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_down_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_guess_default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map_old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map_selected_old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_message_pressed_android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_scan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_message_highlighted_android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_mine_setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_shop_local.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_shop_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_homepage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_homepage_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_merchant_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_merchant_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_mine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_mine_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_misc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_tabbar_misc_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/jd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/jdmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/jrxd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/kd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/ktv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/like.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/ly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/lyl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/mdqg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/me_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/mj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/navigationbar_arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/new_friend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/nj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/nsj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/order1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/order2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/order3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/order4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/pay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/qbfl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/rm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/scale_android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/see.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/shfw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/tdyp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/tttj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/wd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/wm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/xckc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/xxyl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/xzh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/yyms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/zby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/zjgc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/zlam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/zzc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/29@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/29@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/40@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/启动586@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/启动页667h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/启动页763h@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/启动页@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/TabBar/launchimage.imageset/launchimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/Home/HomeDetail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/Home/ZylHome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/Main/ZylLaunchImage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/Main/ZylMain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/Mine/ZylMine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/More/ZylMore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/Component/Shop/ZylShop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/TabBar/launchimage.imageset/Contents.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZylBuy/__tests__/index.android.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZylBuy/__tests__/index.ios.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy-tvOS/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy-tvOSTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/LaunchImage-667h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/LaunchImage@2x.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/LaunchImage-736h@3x.png" afterPath="$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/launchimage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/android/app/build.gradle" afterPath="$PROJECT_DIR$/ZylBuy/android/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/index.android.js" afterPath="$PROJECT_DIR$/ZylBuy/index.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/index.ios.js" afterPath="$PROJECT_DIR$/ZylBuy/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy.xcodeproj/xcshareddata/xcschemes/ZylBuy.xcscheme" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy.xcodeproj/xcshareddata/xcschemes/ZylBuy.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/AppDelegate.m" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/Contents.json" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Images.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Info.plist" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuy/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/ios/ZylBuyTests/Info.plist" afterPath="$PROJECT_DIR$/ZylBuy/ios/ZylBuyTests/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZylBuy/package.json" afterPath="$PROJECT_DIR$/ZylBuy/package.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ZylMain.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Main/ZylMain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+              <folding>
+                <element signature="e#130#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZylHome.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Home/ZylHome.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1739">
+              <caret line="119" column="4" lean-forward="false" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+              <folding>
+                <element signature="e#131#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Home/Home.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Main/Main.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Shop/ZylShop.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Mine/ZylMine.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Home/HomeDetail.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Main/ZylMain.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/index.android.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Main/ZylLaunchImage.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/index.ios.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/Home/ZylHome.js" />
+        <option value="$PROJECT_DIR$/ZylBuy/Component/More/ZylMore.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ZylBuy/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="160" />
+    <option name="y" value="80" />
+    <option name="width" value="1345" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="More" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZylBuy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ZylBuy/android/app/src/main/res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5ca45d-bb56-437d-9d89-41cb6510129a" name="Default" comment="" />
+      <created>1491525926491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491525926491</updated>
+      <workItem from="1491525928922" duration="21000" />
+      <workItem from="1491525952859" duration="16983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17004000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="160" y="80" width="1345" height="907" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33828998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/avatar_enterprise_vip.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/avatar_grassroot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Mine/ZylMine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#130#171#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/node_modules/react-native-tab-navigator/TabNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/node_modules/react-native-tab-navigator/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Home/HomeDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Shop/ZylShop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/launchimage.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Main/ZylLaunchImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#130#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="54" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#89#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/More/ZylMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="71" column="45" lean-forward="false" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+          <folding>
+            <element signature="e#130#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_shop_local.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_mine_setting.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_message_highlighted_android.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_hot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_search.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_message_pressed_android.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_message.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map_selected_old.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map_selected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_guess_default.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_down_arrow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_category_page_selected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_homepage_category_page_default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_defaultimage_shoppingmall_merchant.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/icon_deal_nobooking.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/zlam.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/order4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/new_friend.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/ms.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/me_new.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/jd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/jdmp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/jrxd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/kd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/android/app/src/main/res/drawable-xxhdpi/ktv.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Main/ZylMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="e#130#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZylBuy/Component/Home/ZylHome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1739">
+          <caret line="119" column="4" lean-forward="false" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+          <folding>
+            <element signature="e#131#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,7 +1,12 @@
 # ZylBuy
-1.创建工程  导入资源\r
-2.实现主界面\r
+1.创建工程  导入资源
+
+
+2.实现主界面
+
 import React, { Component } from 'react';
+
+
 import {
     AppRegistry,
     StyleSheet,
@@ -11,6 +16,8 @@ import {
     Platform, //判断系统
     Navigator
 } from 'react-native';
+
+
 
 /**----导入外部组件-----**/
 import TabNavigator from 'react-native-tab-navigator';
@@ -87,5 +94,7 @@ const styles = StyleSheet.create({
 });
 
 //输出组件类
-module.exports = Main;\r
+module.exports = Main;
+
+
 3.更多和我的界面绘制

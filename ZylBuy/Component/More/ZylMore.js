@@ -15,8 +15,13 @@ import {
     View,
     Image,
     TouchableOpacity,
-    Platform
+    Platform,
+    ScrollView
 } from 'react-native';
+
+//导入外部组件
+var CommonCell = require('./ZylCommonCell');
+
 
 var More = React.createClass({
     render() {
@@ -24,6 +29,55 @@ var More = React.createClass({
             <View style={styles.container}>
                 {/*导航条*/}
                 {this.renderNavBar()}
+
+                <ScrollView>
+                    <View style={{marginTop: 20}}>
+                        <CommonCell
+                            title="扫一扫"
+                        />
+                    </View>
+
+                    <View style={{marginTop: 20}}>
+                        <CommonCell
+                            title="省流量模式"
+                            isSwitch={true}
+                        />
+                        <CommonCell
+                            title="消息提醒"
+                        />
+                        <CommonCell
+                            title="邀请好友使用码团"
+                        />
+                        <CommonCell
+                            title="清空缓存"
+                            rightTitle="1.92"
+                        />
+                    </View>
+
+                    <View style={{marginTop: 20}}>
+                        <CommonCell
+                            title="问卷调查"
+                        />
+                        <CommonCell
+                            title="支付帮助"
+                        />
+                        <CommonCell
+                            title="网络诊断"
+                        />
+                        <CommonCell
+                            title="关于码团"
+                        />
+                        <CommonCell
+                            title="我要应聘"
+                        />
+                    </View>
+
+                    <View style={{marginTop: 20}}>
+                        <CommonCell
+                            title="精品应用"
+                        />
+                    </View>
+                </ScrollView>
             </View>
         );
     },
@@ -47,7 +101,7 @@ var More = React.createClass({
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#F5FCFF',
+        backgroundColor: '#e8e8e8',
     },
     welcome: {
         fontSize: 20,

@@ -17,7 +17,8 @@ import {
     TouchableOpacity,
     TextInput,
     Image,
-    Platform
+    Platform,
+    ScrollView
 } from 'react-native';
 
 var Dimensions = require('Dimensions');
@@ -25,17 +26,21 @@ var {width} = Dimensions.get('window');
 
 /*---导入外部组件--*/
 var HomeDetail = require('../Home/HomeDetail');
+var TopView= require('./ZylTopView');
+
+
 var Home = React.createClass({
     render() {
         return (
             <View style={styles.container}>
                 {/*首页导航条*/}
                 {this.renderNavBar()}
-               <TouchableOpacity onPress={() => this.PushDetail()}>
-                <Text style={styles.welcome}>
-                    Home
-                </Text>
-               </TouchableOpacity>
+                {/*首页主要内容*/}
+                <ScrollView>
+                    {/*头部View*/}
+                    <TopView/>
+
+                </ScrollView>
             </View>
         );
     },

@@ -23,8 +23,11 @@ import {
 import TabNavigator from 'react-native-tab-navigator';
 
 var Home = require('../Home/ZylHome');
+
 var Mine = require('../Mine/ZylMine');
+
 var Shop = require('../Shop/ZylShop');
+
 var More = require('../More/ZylMore');
 
 var Main = React.createClass({

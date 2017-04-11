@@ -1,6 +1,6 @@
 # ZylBuy
-1.创建工程  导入资源
-2.实现主界面
+1.创建工程  导入资源\r
+2.实现主界面\r
 import React, { Component } from 'react';
 import {
     AppRegistry,
@@ -87,5 +87,5 @@ const styles = StyleSheet.create({
 });
 
 //输出组件类
-module.exports = Main;
+module.exports = Main;\r
 3.更多和我的界面绘制

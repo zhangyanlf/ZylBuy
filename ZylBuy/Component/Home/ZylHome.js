@@ -27,8 +27,11 @@ var {width} = Dimensions.get('window');
 /*---导入外部组件--*/
 var HomeDetail = require('../Home/HomeDetail');
 var TopView= require('./ZylTopView');
-
-
+var HomeMiddleView = require('./ZylHomeMeddleView');
+var MiddleBottomView = require('./ZylMiddleBottomView');
+var ShopCenter = require('./ZylShopCenter');
+var ShopCenterDetailView = require('./ZylShopCenterDetailView');
+var GeustYouLike = require('./ZylGuestYourLike');
 var Home = React.createClass({
     render() {
         return (
@@ -39,6 +42,18 @@ var Home = React.createClass({
                 <ScrollView>
                     {/*头部View*/}
                     <TopView/>
+                    {/*中间的View*/}
+                    <HomeMiddleView/>
+                    {/*下半部分*/}
+                    <MiddleBottomView
+                        popTopHome={(data)=>{this.pushToDetail(data)}}
+                    />
+                    {/*购物中心*/}
+                    <ShopCenter
+                        popToHomeView ={(url)=>this.pushToShopCenterDetail(url)}
+                    />
+                    {/*猜你喜欢*/}
+                    <GeustYouLike/>
 
                 </ScrollView>
             </View>
@@ -72,12 +87,28 @@ var Home = React.createClass({
             </View>
         )
     },
-    //跳转二级页面
-    PushDetail(){
+    pushToShopCenterDetail(url){
         this.props.navigator.push(
             {
-                component: HomeDetail,//要跳转的页面
-                title: '详情页'
+                component: ShopCenterDetailView, // 要跳转的版块
+                passProps:{'url': this.dealWithUrl(url)}
+            }
+        );
+    },
+
+    //处理URl
+    dealWithUrl(url){
+      return url.replace('imeituan://www.meituan.com/web/?url=', '')
+    },
+    // 跳转到二级界面
+    pushToDetail(data){
+
+         alert(data);
+
+        this.props.navigator.push(
+            {
+                component: HomeDetail, // 要跳转的版块
+                title:'详情页'
             }
         );
     }
@@ -86,7 +117,7 @@ var Home = React.createClass({
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#F5FCFF',
+        backgroundColor: '#DEDEDE',
     },
     welcome: {
         fontSize: 20,

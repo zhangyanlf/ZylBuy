@@ -14,7 +14,8 @@ import {
     Text,
     View,
     Image,
-    ListView
+    ListView,
+    TouchableOpacity
 } from 'react-native';
 var Dimensions = require('Dimensions');
 var {width} = Dimensions.get('window');
@@ -51,10 +52,12 @@ var TopListView = React.createClass({
     //具体Cell
     renderRow(rowData) {
         return(
-            <View style={styles.cellStyle}>
-                <Image source={{uri: rowData.image}} style={{width: 52, height: 52}}/>
-                <Text style={{fontSize: 12}}>{rowData.title}</Text>
-            </View>
+            <TouchableOpacity activeOpacity={0.5} onPress={() => {alert(rowData.title)}}>
+                <View style={styles.cellStyle}>
+                    <Image source={{uri: rowData.image}} style={{width: 52, height: 52}}/>
+                    <Text style={{fontSize: 12, color: 'gray'}}>{rowData.title}</Text>
+                </View>
+            </TouchableOpacity>
         );
     }
 
@@ -74,7 +77,8 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         marginTop: 10,
-        marginLeft: (width - 70*5) / (5 + 1)
+        marginLeft: (width - 70*5) / (5 + 1),
+
     }
 });
 

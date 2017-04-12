@@ -32,6 +32,9 @@ var MiddleBottomView = require('./ZylMiddleBottomView');
 var ShopCenter = require('./ZylShopCenter');
 var ShopCenterDetailView = require('./ZylShopCenterDetailView');
 var GeustYouLike = require('./ZylGuestYourLike');
+var HotChannel = require('./ZylHotChannel');
+var HotDetailView = require('./ZylHotDetailView');
+
 var Home = React.createClass({
     render() {
         return (
@@ -46,11 +49,15 @@ var Home = React.createClass({
                     <HomeMiddleView/>
                     {/*下半部分*/}
                     <MiddleBottomView
-                        popTopHome={(data)=>{this.pushToDetail(data)}}
+                        popTopHome={(data) => this.pushToDetail(data)}
                     />
                     {/*购物中心*/}
                     <ShopCenter
-                        popToHomeView ={(url)=>this.pushToShopCenterDetail(url)}
+                        popToHomeView = {(url)=>this.pushToShopCenterDetail(url)}
+                    />
+                    {/*热门频道*/}
+                    <HotChannel
+                        popToHotDetail =  {(url)=>this.pushToHotChannalDetail(url)}
                     />
                     {/*猜你喜欢*/}
                     <GeustYouLike/>
@@ -87,31 +94,48 @@ var Home = React.createClass({
             </View>
         )
     },
+    pushToHotChannalDetail(url){
+        this.props.navigator.push(
+            {
+                component: HotDetailView, // 要跳转的版块
+                passProps:{'url': this.dealWithHotChannalUrl(url)}
+            }
+        );
+    },
+
     pushToShopCenterDetail(url){
         this.props.navigator.push(
             {
                 component: ShopCenterDetailView, // 要跳转的版块
-                passProps:{'url': this.dealWithUrl(url)}
+                passProps:{'url': this.dealWithShopCenterUrl(url)}
+            }
+        );
+    },
+    // 跳转到二级界面
+    pushToDetail(data){
+        this.props.navigator.push(
+            {
+                component: HomeDetail, // 要跳转的版块
+                passProps:{'url': this.dealWithUrl(data)}
             }
         );
     },
 
     //处理URl
-    dealWithUrl(url){
-      return url.replace('imeituan://www.meituan.com/web/?url=', '')
+    dealWithHotChannalUrl(url){
+
+        return url.replace('imeituan://www.meituan.com/web/?url=', '').replace('imeituan://www.meituan.com/web/search?url=' ,'').replace('imeituan://www.meituan.com/web?url=' ,'').replace('imeituan://www.meituan.com/hotel/hybrid/web?url=', '').replace('imeituan', 'https');
     },
-    // 跳转到二级界面
-    pushToDetail(data){
 
-         alert(data);
+    dealWithShopCenterUrl(url){
 
-        this.props.navigator.push(
-            {
-                component: HomeDetail, // 要跳转的版块
-                title:'详情页'
-            }
-        );
+        return url.replace('imeituan://www.meituan.com/web/?url=', '');
+    },
+    dealWithUrl(url){
+
+        return url.replace('imeituan://www.meituan.com/web?url=', '');
     }
+
 });
 
 const styles = StyleSheet.create({

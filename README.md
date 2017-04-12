@@ -103,3 +103,11 @@ module.exports = Main;
 3.更多和我的界面绘制
 
 4.完成首页及商家界面（由于只抓到部分二级界面地址，实现了部分二级页面展示）
+
+### 运行
+
+$ git clone git@github.com:80percent/react-native-project.git && cd react-native-project
+
+$ npm install
+
+$ react-native run-ios or react-native run-android
